@@ -1,0 +1,28 @@
+body {
+	background-image: url(../img/DSC_0444.JPG);
+	background-size: 100% 75%;
+	background-repeat: no-repeat;
+}
+
+p {
+	font-size: 20px;
+}
+
+.bg-faded {
+    background-color: purple;
+}
+
+.navbar {
+     border-radius: 0px; 
+}
+.border{
+	border:5px solid black;
+}
+
+.nav-link {
+	font-size: 24px;
+}
+
+.image-class{
+	background-image: url("../img/DSC-0444.jpg");
+}
